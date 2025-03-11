@@ -4,7 +4,7 @@
   # ✨ <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> Hello World! ✨
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2C68F6&center=true&vCenter=true&width=600&height=100&lines=I'm+Kaushik+Mandal;Finance+Enthusiast;Web+Developer;Tech+Enthusiastic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2C68F6&center=true&vCenter=true&width=600&height=100&lines=I'm+Kaushik+Mandal;Finance+Enthusiast;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
   </div>
 </div>
 
