@@ -125,6 +125,6 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
 ---
 
 <div align="center">
-  <img src="https://custom-icon-badges.herokuapp.com/badge/Built%20With-❤️-red.svg?style=for-the-badge" alt="Built With Love"/>
-  <img src="https://custom-icon-badges.herokuapp.com/badge/Powered%20By-☕-brown.svg?style=for-the-badge" alt="Powered By Coffee"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Built%20With-💙-skyblue.svg?style=for-the-badge" alt="Built With Love"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Powered%20By-🍵-lightgreen.svg?style=for-the-badge" alt="Powered By Tea"/>
 </div>
