@@ -87,22 +87,40 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=koushik369mondal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik369mondal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=koushik369mondal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/> 
+    </td>
+    <td>
+      <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik369mondal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center"> 
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik369mondal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik369mondal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushik369mondal&theme=tokyonight" width="100%" alt="Profile Details"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushik369mondal&theme=tokyonight" alt="Profile Details"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik369mondal&bg_color=1a1b27&color=628fdb&line=2b88d8&point=8a87f0&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik369mondal&bg_color=1a1b27&color=628fdb&line=2b88d8&point=8a87f0&area=true&hide_border=true" alt="Contribution Graph"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
