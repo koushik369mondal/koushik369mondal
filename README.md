@@ -4,7 +4,7 @@
   # ✨ <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> Hello World! ✨
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2C68F6&center=true&vCenter=true&width=600&height=100&lines=I'm+Kaushik+Mandal;Finance+Enthusiast;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2C68F6&center=true&vCenter=true&width=600&height=100&lines=I'm+Kaushik+Mandal;Web+Developer;Finance+Enthusiast;Tech+Enthusiast" alt="Typing SVG" />
   </div>
 </div>
 
@@ -39,67 +39,22 @@ const KAUSHIK = {
 };
 ```
 
-I'm a passionate Computer Science Engineering student with a knack for solving real-world problems through technology. My journey in tech is driven by curiosity and the desire to create meaningful solutions.
+I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also keen on learning MERN stack development.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Skills & Technologies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Technologies & Tools I Work With
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Programming Languages</h3>
-        <p align="center">
-          <a href="https://www.cprogramming.com/" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
-          </a>
-          <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
-          </a>
-          <a href="https://www.java.com" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
-          </a>
-          <a href="https://www.python.org" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-          </a>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend Development</h3>
-        <p align="center">
-          <a href="https://www.w3.org/html/" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> 
-          </a>
-          <a href="https://www.w3schools.com/css/" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
-          </a>
-          <a href="https://getbootstrap.com" target="_blank"> 
-              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50"/> 
-          </a>
-          <a href="https://tailwindcss.com/" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/> 
-          </a>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Database & Tools</h3>
-        <p align="center">
-          <a href="https://www.mongodb.com/" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> 
-          </a>
-          <a href="https://www.mysql.com/" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
-          </a>
-          <a href="https://git-scm.com/" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+| Category                  | Technologies |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend Development**  | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)|
+| **Backend Development**   | |
+| **Databases**             |  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Testing**      | |
+| **Cloud Platforms**       | |
+| **Version Control**       | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Hosting & Deployment**  | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)|
+| **IDEs & Editors**        | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-2E2E2E.svg?style=for-the-badge&logo=cursor&logoColor=white)  ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white) |
+| **UI/UX & Design**        | |
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with Me
 
