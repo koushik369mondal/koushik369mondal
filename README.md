@@ -9,17 +9,24 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=koushik369mondal&label=Profile%20views&color=2C68F6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koushik369mondal&label=Profile%20views&color=6AABD2&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/koushik369mondal?tab=followers">
-    <img src="https://img.shields.io/github/followers/koushik369mondal?label=Followers&style=for-the-badge&color=2C68F6" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/koushik369mondal?label=Followers&style=for-the-badge&color=6AABD2" alt="GitHub followers" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushik369mondal&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koushik369mondal&theme=calm&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <h3 style="color:#6AABD2;">🌿 Growth is a journey, not a destination. Keep going! 🚀</h3>
+</div>
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
