@@ -70,11 +70,7 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
   </a>
 </p>
 
-## 📫 Let's Connect!
-
-<div align="center">
-  <h3>Let's Connect and Build Something Amazing Together! 🚀</h3>
-</div>
+## 📫 Let's Connect and Build Something Amazing Together! 🚀!
 
 <p align="center">
   <a href="https://linkedin.com/in/koushik369mondal">
@@ -85,6 +81,9 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
   </a>
   <a href="https://instagram.com/koushik369mondal">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+    <a href="https://wa.me/919593295965">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
 
