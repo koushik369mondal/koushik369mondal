@@ -56,6 +56,13 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
 | **IDEs & Editors**        | <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a> <a href="https://www.jetbrains.com/idea/documentation/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a> <a href="https://www.eclipse.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/></a> <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/Cursor-2E2E2E.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a> |
 
 
+
+## 💡 Inspiration of the Day
+
+<div align="center">
+  <img width="650em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
 ## 🏆 Coding Profiles
 
 <p align="center">
@@ -87,12 +94,18 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
   </a>
 </p>
 
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <img width="650em" src="https://leetcard.jacoblin.cool/koushik369mondal?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
+</div>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
   
   <!-- GitHub Stats Card - Customized -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushik369mondal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&ring_color=91bfff&text_color=9f9f9f&icon_color=91bfff&title_color=91bfff" />
+  <img width="650em" src="https://github-readme-stats.vercel.app/api?username=koushik369mondal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&ring_color=91bfff&text_color=9f9f9f&icon_color=91bfff&title_color=91bfff" />
   
   <!-- Improved Languages Card with better visualization -->
    <!-- <img height="180em" src="https://api.githubtrends.io/user/svg/koushik369mondal/langs?time_range=one_year&theme=tokyonight&include_private=true&compact=true&loc_metric=changed" /> -->
