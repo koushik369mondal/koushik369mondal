@@ -94,12 +94,6 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
   </a>
 </p>
 
-## 🏆 LeetCode Progress
-
-<div align="center">
-  <img width="650em" src="https://leetcard.jacoblin.cool/koushik369mondal?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
@@ -121,6 +115,13 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
   
   <!-- Trophies Card - New Addition -->
   <img width="650em" src="https://github-profile-trophy.vercel.app/?username=koushik369mondal&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <img width="650em" src="https://leetcard.jacoblin.cool/koushik369mondal?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ---
