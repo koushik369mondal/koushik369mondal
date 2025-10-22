@@ -134,6 +134,16 @@ I'm Kaushik Mandal, a passionate web developer and finance enthusiast. I am also
 
 ---
 
+## 🎃 Hacktoberfest 2025
+
+<div align="center">
+  
+  <!-- Holopin Badge Board -->
+  [![An image of @koushik369mondal's Holopin badges](https://holopin.me/koushik369mondal)](https://holopin.io/@koushik369mondal)
+  
+</div>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/Built%20With-💙-skyblue.svg?style=for-the-badge" alt="Built With Love"/>
   <img src="https://img.shields.io/badge/Powered%20By-☕-brown.svg?style=for-the-badge" alt="Powered By Coffee"/>
