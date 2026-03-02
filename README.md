@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js+%7C+TypeScript;Turning+caffeine+into+clean+code+%E2%98%95%E2%86%92%F0%9F%92%BB;Investing+in+tech%2C+finance+%26+myself+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js+%7C+JavaScript;Turning+caffeine+into+clean+code+%E2%98%95%E2%86%92%F0%9F%92%BB;Investing+in+tech%2C+finance+%26+myself+%F0%9F%93%88)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,11 +28,11 @@ const kaushik = {
   role: "Full-Stack Developer | CSE Undergraduate",
   specialization: ["MERN Stack", "Scalable Web Apps", "API Design"],
   exploring: ["FinTech Systems", "System Design", "Product Architecture"],
-  tech: ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
+  tech: ["React", "Next.js", "Node.js", "MongoDB", "JavaScript"],
   mindset: ["Builder", "Problem Solver", "Long-Term Investor"],
   interests: ["Financial Markets", "Open Source", "Startup Ecosystems"],
   contact: "koushik369mondal@gmail.com",
-  motto: "Build assets. Build systems. Build freedom."
+  motto: "Build assets. Build systems. Build freedom.",
 };
 ```
 
@@ -53,8 +53,6 @@ I’m a full-stack developer passionate about building scalable web applications
 | **Hosting & Deployment**  | <a href="https://docs.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a> <a href="https://pages.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/></a> <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **API Testing**           | <a href="https://www.thunderclient.com/" target="_blank"><img src="https://img.shields.io/badge/Thunder%20Client-%237B4DED.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Thunder Client"/></a> <a href="https://hoppscotch.io/" target="_blank"><img src="https://img.shields.io/badge/Hoppscotch-%2300C176.svg?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/></a> <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **IDEs & Editors**        | <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a> <a href="https://www.jetbrains.com/idea/documentation/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a> <a href="https://www.eclipse.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/></a> <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/Cursor-2E2E2E.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a>                                                                                                                                                                                                                                                                                                                            |
-
-
 
 ---
 
@@ -126,7 +124,7 @@ I’m a full-stack developer passionate about building scalable web applications
 
 <br/>
 
-*"The best investment you can make is in yourself."* — Warren Buffett
+_"The best investment you can make is in yourself."_ — Warren Buffett
 
 <br/>
 
