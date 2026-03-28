@@ -60,13 +60,13 @@ I’m a full-stack developer passionate about building scalable web applications
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=koushik369mondal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=koushik369mondal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" /> -->
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik369mondal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik369mondal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
 
-<img width="700" src="https://github-profile-trophy.vercel.app/?username=koushik369mondal&theme=algolia&no-frame=true&row=1&column=7&margin-w=10" />
+<!-- <img width="700" src="https://github-profile-trophy.vercel.app/?username=koushik369mondal&theme=algolia&no-frame=true&row=1&column=7&margin-w=10" /> -->
 
 </div>
 
@@ -76,7 +76,7 @@ I’m a full-stack developer passionate about building scalable web applications
 
 <div align="center">
 
-<img width="500" src="https://leetcard.jacoblin.cool/koushik369mondal?theme=dark&font=source_code_pro&ext=contest&border=0&radius=8" />
+<img width="600" src="https://leetcard.jacoblin.cool/koushik369mondal?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=10" />
 
 </div>
 
