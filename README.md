@@ -41,8 +41,6 @@ I’m a **Computer Science undergraduate and Full-Stack Developer** focused on b
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik369mondal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=koushik369mondal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
-
 </div>
 
 ---
